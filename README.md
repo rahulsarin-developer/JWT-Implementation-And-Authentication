@@ -4,7 +4,7 @@ JWT Generic Implementation and Authentication on Spring Boot API(s)
 It is a Generic JWT Token Generation API.<br/>
 Either you can generate Token based on Username & Password OR Email & Password<br/>
 
-Generate Token based on Email & Password OR Username & Password:<br/>
+Generate Token based on Email & Password or Username & Password:<br/>
 
 ![Generate-Token](https://user-images.githubusercontent.com/8852999/84939876-9ec24380-b0fc-11ea-8c4d-fa38315f1c6c.png)
 
