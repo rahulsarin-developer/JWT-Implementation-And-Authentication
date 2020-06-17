@@ -8,7 +8,11 @@ Generate Token:<br/>
 
 ![Generate-Token](https://user-images.githubusercontent.com/8852999/84939876-9ec24380-b0fc-11ea-8c4d-fa38315f1c6c.png)
 
+Validate-Token-with-User (Passing Token under Authorization):
+
 ![Validate-Token-with-User-1](https://user-images.githubusercontent.com/8852999/84939889-a71a7e80-b0fc-11ea-8775-925d3b842bb8.png)
+
+Validate-Token-with-User (Passing Email or Username under Params):
 
 ![Validate-Token-with-User-2](https://user-images.githubusercontent.com/8852999/84939898-ab469c00-b0fc-11ea-8984-b344b2b99f44.png)
 
